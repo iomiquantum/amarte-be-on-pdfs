@@ -19,8 +19,9 @@
 | 07 | [Plan de Pauta y KPIs](07-amarte-plan-pauta.pdf) | Quien ejecute Ads Manager | 9 |
 | 08 | [Comercialización en Campo · Outbound](08-amarte-outbound.pdf) | Los 3 facilitadores | 14 |
 | 🎁 | [Lead Magnet · 5 señales + 3 ejercicios](lead-magnet-amarte.pdf) | Comunidad pública | 11 |
+| 📋 | [**Matriz de Tareas y Asignaciones**](10-amarte-matriz-tareas.pdf) | Documento de junta — todas las tareas en una vista | 9 |
 
-**Total: 125 páginas en 10 PDFs.**
+**Total: 134 páginas en 11 PDFs + [tareas-amarte.csv](tareas-amarte.csv) (importable a Google Sheets).**
 
 ---
 

@@ -1,0 +1,58 @@
+ID,Área,Tarea,Perfil sugerido,Deadline,Prioridad,Doc ref,Asignado a,Status
+T01,Setup inicial,Crear las 3 cuentas de redes con handle @amartebeon,Equipo (los 3),Lun 12 may,ALTA,DOC 1,,Pendiente
+T02,Setup inicial,Bio unificada IG / TikTok / FB + foto de perfil + link en bio,Diseñadora,Mar 13 may,ALTA,"DOC 1, 4",,Pendiente
+T03,Setup inicial,Crear grupo WhatsApp privado + reglas pinneadas + 5 mensajes bienvenida,Quien lleve community management,Lun 12 may,ALTA,DOC 2,,Pendiente
+T04,Setup inicial,Setup Meta Business Suite + cuenta publicitaria + Pixel,Quien ejecute Ads Manager,Lun 12 may,ALTA,DOC 7,,Pendiente
+T05,Setup inicial,Setup TikTok Ads Manager + Pixel + verificación dominio,Quien ejecute Ads Manager,Lun 12 may,ALTA,DOC 7,,Pendiente
+T06,Setup inicial,Configurar tablero Notion / Trello / Asana con todas las piezas,Equipo coordinación,Dom 11 may,ALTA,DOC 3,,Pendiente
+T07,Setup inicial,Definir herramienta de programación (Métricool / Postiz / Buffer),Equipo (los 3),Lun 12 may,MEDIA,DOC 3,,Pendiente
+T08,Decisiones de junta,"Definir community management — Combo A+C inicial, B desde S2 si aplica",Equipo (los 3),Lun 12 may,ALTA,DOC 1,,Pendiente
+T09,Decisiones de junta,Definir lectura conjunta del DOC 4 (Manual de Marca) — firmar todos,Los 3 facilitadores,Dom 11 may,ALTA,DOC 4,,Pendiente
+T10,Evento,Confirmar lugar exacto del evento en Quito,Logística + Miguel Ángel,Lun 12 may,ALTA,DOC 2,,Pendiente
+T11,Evento,Cerrar contrato del salón + depósito,Logística,Mié 14 may,ALTA,DOC 2,,Pendiente
+T12,Evento,Definir procesador de pagos (Stripe / PayPhone / transferencia),Equipo (los 3),Vie 16 may,ALTA,DOC 2,,Pendiente
+T13,Evento,Landing v1.0 lista (URL provisional o final),Equipo coordinación + diseñadora,Dom 18 may,ALTA,DOC 2,,Pendiente
+T14,Evento,Disclaimer médico / contraindicaciones de salud redactado,Equipo (los 3) + Lili (revisión),Lun 19 may,ALTA,DOC 2,,Pendiente
+T15,Evento,Política de reembolso y reasignación de cupos,Equipo (los 3),Lun 19 may,MEDIA,DOC 2,,Pendiente
+T16,Evento,Asignar persona de logística del día del evento,Equipo (los 3),Lun 19 may,ALTA,DOC 2,,Pendiente
+T17,Evento,"Compras del evento (té, agua, frutas, manta, materiales)",Logística,Jue 11 jun,ALTA,DOC 2,,Pendiente
+T18,Evento,"Setup del salón el viernes 12 (luz, audio, sillas, círculo)",Logística + los 3,Vie 12 jun,ALTA,DOC 2,,Pendiente
+T19,Contenido / Redes,Diseñar lead magnet PDF '5 señales + 3 ejercicios',Diseñadora,Sáb 17 may,ALTA,DOC 2,,Pendiente
+T20,Contenido / Redes,Pre-cargar 9 posts de feed (3 por red),Diseñadora + facilitadores,Sáb 17 may,ALTA,DOC 1,,Pendiente
+T21,Contenido / Redes,Bloque de grabación 1 — los 4 reels test pre-launch,Los 3 facilitadores + diseñadora,Sáb 17 may,ALTA,DOC 5,,Pendiente
+T22,Contenido / Redes,Bloque de grabación 2 — los 9 reels Pilar A/B/C,Los 3 facilitadores,Sáb 24 may,ALTA,DOC 5,,Pendiente
+T23,Contenido / Redes,Plantillas de captions y stories impresas + listas,Diseñadora,Dom 11 may,MEDIA,"DOC 1, 5",,Pendiente
+T24,Contenido / Redes,Edición CapCut de cada reel (semanal),Diseñadora,Cada lun-mar,ALTA,DOC 5,,Pendiente
+T25,Contenido / Redes,Validación interna de cada pieza antes de publicar,Equipo (los 3),24h antes,ALTA,DOC 5,,Pendiente
+T26,Contenido / Redes,Captions revisadas por tono y palabras prohibidas,Equipo (los 3),Cada domingo previo,ALTA,DOC 5,,Pendiente
+T27,Contenido / Redes,Grabar audio de bienvenida grupal (5 min) los 3 facilitadores,Los 3 facilitadores,Dom 18 may,ALTA,DOC 6,,Pendiente
+T28,Contenido / Redes,Grabar video de presentación los 3 juntos (lanzamiento dom 18 may 7 PM),Los 3 facilitadores + diseñadora,Sáb 17 may,ALTA,DOC 1,,Pendiente
+T29,Contenido / Redes,Pista 432 Hz pre-grabada con voz de Miguel para Charla 3,Miguel Ángel,Sáb 31 may,ALTA,DOC 6,,Pendiente
+T30,Charlas,Esquema talking points + 3 referencias propias · Charla 1,Jenny Martínez,Dom 17 may,ALTA,DOC 6,,Pendiente
+T31,Charlas,Esquema talking points + 3 referencias propias · Charla 2,Lili,Dom 24 may,ALTA,DOC 6,,Pendiente
+T32,Charlas,Esquema talking points + 3 referencias propias · Charla 3 (cierre),Miguel Ángel + Jenny + Lili,Dom 31 may,ALTA,DOC 6,,Pendiente
+T33,Charlas,Setup técnico testeado (mic + cámara + slides) · Charla 1,Jenny Martínez,Lun 18 may,ALTA,DOC 6,,Pendiente
+T34,Charlas,Setup técnico testeado · Charla 2,Lili,Lun 26 may,ALTA,DOC 6,,Pendiente
+T35,Charlas,Setup técnico testeado · Charla 3,Miguel Ángel,Lun 2 jun,ALTA,DOC 6,,Pendiente
+T36,Charlas,Plantilla de invitación a charla en redes (semanal),Diseñadora,Cada lun previo,MEDIA,DOC 6,,Pendiente
+T37,Charlas,Reunión post-charla 24h después · análisis métricas,Equipo (los 3),Cada miércoles,ALTA,DOC 6,,Pendiente
+T38,Pauta digital,Crear públicos personalizados base (intereses + LAL + retargeting),Quien ejecute Ads Manager,Mié 14 may,ALTA,DOC 7,,Pendiente
+T39,Pauta digital,Cargar 12 variantes de copy de ads (de DOC 5),Quien ejecute Ads Manager,Vie 16 may,ALTA,DOC 7,,Pendiente
+T40,Pauta digital,Lanzar test pre-launch · 4 reels x $10 = $40,Quien ejecute Ads Manager,Lun 12 may,ALTA,DOC 7,,Pendiente
+T41,Pauta digital,Reporte semanal de pauta · cada lunes 9 AM,Quien ejecute Ads Manager,Cada lunes,ALTA,DOC 7,,Pendiente
+T42,Pauta digital,Decidir reel ganador del test y boost de S1,Equipo (los 3) + ejecutor pauta,Dom 18 may,ALTA,DOC 7,,Pendiente
+T43,Pauta digital,Reunión semanal de revisión de pauta · cada lunes 10 AM,Equipo (los 3) + ejecutor pauta,Cada lunes,MEDIA,DOC 7,,Pendiente
+T44,Outbound,Cada facilitador exporta su base de contactos a hoja personal,Cada uno los 3,Dom 11 may,ALTA,DOC 8,,Pendiente
+T45,Outbound,Crear spreadsheet de tracking compartido (Google Sheets),Equipo coordinación,Lun 12 may,ALTA,DOC 8,,Pendiente
+T46,Outbound,Diseñar flyer A5 imprimible + tarjeta digital + 1-pager corp,Diseñadora,Vie 16 may,ALTA,DOC 8,,Pendiente
+T47,Outbound,Lista consensuada de 30-50 contactos VIP para outreach 1-a-1,Equipo (los 3),Dom 18 may,ALTA,DOC 8,,Pendiente
+T48,Outbound,Definir tarifa corporativa final (paquetes 5-9 / 10-19 / 20-40),Equipo (los 3),Lun 19 may,ALTA,DOC 8,,Pendiente
+T49,Outbound,Primera ronda de activación base personal (~20 contactos por facilitador),Cada uno los 3,Lun 12 may,ALTA,DOC 8,,Pendiente
+T50,Outbound,Primer batch de pitch B2B · 5 empresas,Quien lidere B2B,Vie 23 may,ALTA,DOC 8,,Pendiente
+T51,Outbound,"Outreach a aliados estratégicos · 10 espacios (gimnasios, yoga studios)",Quien lleve aliados,Vie 23 may,MEDIA,DOC 8,,Pendiente
+T52,Outbound,Reunión de seguimiento outbound · cada lunes 10:30 AM,Equipo (los 3),Cada lunes,MEDIA,DOC 8,,Pendiente
+D01,Decisiones de junta,Voz en off humana o ElevenLabs (rioplatense) — definir y consistente,Equipo (los 3),Lun 12 may,ALTA,Brief 16.5,,Pendiente
+D02,Decisiones de junta,Asignación operativa de redes — quién hace CM en cada red,Equipo (los 3),Lun 12 may,ALTA,DOC 1,,Pendiente
+D03,Decisiones de junta,Asignación final de tareas outbound por facilitador,Equipo (los 3),Lun 12 may,ALTA,DOC 8,,Pendiente
+D04,Decisiones de junta,Quién ejecuta Ads Manager (Meta + TikTok),Equipo (los 3),Lun 12 may,ALTA,DOC 7,,Pendiente
+D05,Decisiones de junta,Cuándo (y si) se suma Community Manager freelance ($300-500/mes),Equipo (los 3),Lun 19 may (eval S2),MEDIA,DOC 1,,Pendiente
