@@ -25,20 +25,23 @@
 
 ---
 
-## 📦 EXTRAS · Por definir / complementarios (4 PDFs · 15 pgs)
+## 📦 EXTRAS · Por definir / complementarios (9 PDFs · 91 pgs)
 
 Documentos estratégicos que requieren decisiones del equipo y/o validación legal:
 
 | # | Documento | Para qué |
 |---|---|---|
-| 11 | [**P&L y Split de Revenue**](EXTRAS%20POR%20DEFINIR%20COMPLEMENTARIOS/11-amarte-pyl-split-revenue.pdf) | Presupuesto · break-even · 3 modelos de reparto entre socios |
+| 11 | [**P&L y Split de Revenue**](EXTRAS%20POR%20DEFINIR%20COMPLEMENTARIOS/11-amarte-pyl-split-revenue.pdf) | Presupuesto evento · break-even · 3 modelos de reparto entre socios |
 | 12 | [**Protocolo de Crisis durante el Evento**](EXTRAS%20POR%20DEFINIR%20COMPLEMENTARIOS/12-amarte-protocolo-crisis.pdf) | Tipos · roles · pasos · frases ancla · botiquín |
 | 13 | [**Contratos y Legal Mínimo (BORRADOR)**](EXTRAS%20POR%20DEFINIR%20COMPLEMENTARIOS/13-amarte-contratos-legal.pdf) | Acuerdo socios + T&C participante · validar con abogado |
 | 14 | [**Post-Evento · Contingencias · Roadmap**](EXTRAS%20POR%20DEFINIR%20COMPLEMENTARIOS/14-amarte-post-contingencias-roadmap.pdf) | 30 días post · planes B · visión 12 meses |
+| 15 | [**Plan Financiero de la EMPRESA**](EXTRAS%20POR%20DEFINIR%20COMPLEMENTARIOS/15-amarte-financiero-empresa.pdf) | Estructura legal · 6 modelos monetización · proyecciones año 1 · tributación · contabilidad |
+| 16 | [**Cobertura de Seguros**](EXTRAS%20POR%20DEFINIR%20COMPLEMENTARIOS/16-amarte-seguros.pdf) | 5 tipos · cotizaciones Ecuador · aseguradoras Quito |
+| 17 | [**Welcome Kit + Documento del Día**](EXTRAS%20POR%20DEFINIR%20COMPLEMENTARIOS/17-amarte-welcome-kit.pdf) | 9 elementos · manual del día · carta despedida |
+| 18 | [**Stack Tecnológico**](EXTRAS%20POR%20DEFINIR%20COMPLEMENTARIOS/18-amarte-stack-tecnologico.pdf) | 12 herramientas · 4 automaciones · recomendación lean |
+| 19 | [**PR / Prensa local Quito**](EXTRAS%20POR%20DEFINIR%20COMPLEMENTARIOS/19-amarte-pr-prensa.pdf) | Mapa medios · plantillas pitch · press kit |
 
-📋 Para retomar el proyecto fácilmente: ver [**ESTADO-DEL-PROYECTO.md**](ESTADO-DEL-PROYECTO.md).
-
-**Total entregable: 15 PDFs · 149 páginas + CSV.**
+**Total entregable: 20 PDFs · 226 páginas + CSV.**
 
 ---
 
