@@ -21,7 +21,24 @@
 | 🎁 | [Lead Magnet · 5 señales + 3 ejercicios](lead-magnet-amarte.pdf) | Comunidad pública | 11 |
 | 📋 | [**Matriz de Tareas y Asignaciones**](10-amarte-matriz-tareas.pdf) | Documento de junta — todas las tareas en una vista | 9 |
 
-**Total: 134 páginas en 11 PDFs + [tareas-amarte.csv](tareas-amarte.csv) (importable a Google Sheets).**
+**Total plan principal: 134 páginas en 11 PDFs + [tareas-amarte.csv](tareas-amarte.csv) (importable a Google Sheets).**
+
+---
+
+## 📦 EXTRAS · Por definir / complementarios (4 PDFs · 15 pgs)
+
+Documentos estratégicos que requieren decisiones del equipo y/o validación legal:
+
+| # | Documento | Para qué |
+|---|---|---|
+| 11 | [**P&L y Split de Revenue**](EXTRAS%20POR%20DEFINIR%20COMPLEMENTARIOS/11-amarte-pyl-split-revenue.pdf) | Presupuesto · break-even · 3 modelos de reparto entre socios |
+| 12 | [**Protocolo de Crisis durante el Evento**](EXTRAS%20POR%20DEFINIR%20COMPLEMENTARIOS/12-amarte-protocolo-crisis.pdf) | Tipos · roles · pasos · frases ancla · botiquín |
+| 13 | [**Contratos y Legal Mínimo (BORRADOR)**](EXTRAS%20POR%20DEFINIR%20COMPLEMENTARIOS/13-amarte-contratos-legal.pdf) | Acuerdo socios + T&C participante · validar con abogado |
+| 14 | [**Post-Evento · Contingencias · Roadmap**](EXTRAS%20POR%20DEFINIR%20COMPLEMENTARIOS/14-amarte-post-contingencias-roadmap.pdf) | 30 días post · planes B · visión 12 meses |
+
+📋 Para retomar el proyecto fácilmente: ver [**ESTADO-DEL-PROYECTO.md**](ESTADO-DEL-PROYECTO.md).
+
+**Total entregable: 15 PDFs · 149 páginas + CSV.**
 
 ---
 
