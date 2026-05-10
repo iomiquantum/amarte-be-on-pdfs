@@ -40,8 +40,11 @@ Documentos estratégicos que requieren decisiones del equipo y/o validación leg
 | 17 | [**Welcome Kit + Documento del Día**](EXTRAS%20POR%20DEFINIR%20COMPLEMENTARIOS/17-amarte-welcome-kit.pdf) | 9 elementos · manual del día · carta despedida |
 | 18 | [**Stack Tecnológico**](EXTRAS%20POR%20DEFINIR%20COMPLEMENTARIOS/18-amarte-stack-tecnologico.pdf) | 12 herramientas · 4 automaciones · recomendación lean |
 | 19 | [**PR / Prensa local Quito**](EXTRAS%20POR%20DEFINIR%20COMPLEMENTARIOS/19-amarte-pr-prensa.pdf) | Mapa medios · plantillas pitch · press kit |
+| **20** | [**Programas para Colegios**](EXTRAS%20POR%20DEFINIR%20COMPLEMENTARIOS/20-amarte-vertical-colegios.pdf) | Vertical de negocio · 4 programas · ciclo venta · legal menores |
+| **21** | [**Programas Corporativos**](EXTRAS%20POR%20DEFINIR%20COMPLEMENTARIOS/21-amarte-vertical-corporativo.pdf) | Vertical B2B · 5 programas · pitch deck · casos por industria |
+| **22** | [**Programas para Familias**](EXTRAS%20POR%20DEFINIR%20COMPLEMENTARIOS/22-amarte-vertical-familias.pdf) | Vertical B2C · padres e hijos · 4 programas · adaptación por edad |
 
-**Total entregable: 20 PDFs · 226 páginas + CSV.**
+**Total entregable: 23 PDFs + CSV.**
 
 ---
 
